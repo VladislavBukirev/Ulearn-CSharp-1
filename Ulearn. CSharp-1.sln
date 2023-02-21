@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тема 1. Ошибки", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тема 2. Ветвления", "Тема 2. Ветвления\Тема 2. Ветвления.csproj", "{A4AAD435-9E4C-43F0-B2B0-F1A94570A717}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тема 3. Циклы", "Тема 3. Циклы\Тема 3. Циклы.csproj", "{4297BA6C-21DB-4E28-A9A5-08C29638D5FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{A4AAD435-9E4C-43F0-B2B0-F1A94570A717}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4AAD435-9E4C-43F0-B2B0-F1A94570A717}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4AAD435-9E4C-43F0-B2B0-F1A94570A717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4297BA6C-21DB-4E28-A9A5-08C29638D5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4297BA6C-21DB-4E28-A9A5-08C29638D5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4297BA6C-21DB-4E28-A9A5-08C29638D5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4297BA6C-21DB-4E28-A9A5-08C29638D5FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
